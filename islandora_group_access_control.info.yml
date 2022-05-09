@@ -1,0 +1,8 @@
+name: Access Control By Group
+type: module
+description: 'Allows restriction of access by taxonomy term'
+package: Islandora
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+ - drupal:islandora
